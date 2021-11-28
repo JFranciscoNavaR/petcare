@@ -1,0 +1,25 @@
+.imgc {
+    height: 450px;
+    width: auto;
+}
+
+.imgcard {
+    height: 185px;
+    width: 450px;
+}
+
+
+/*footer*/
+
+.footer {
+    border-top: 1px solid #222;
+}
+
+.post-footer {
+    width: auto;
+    margin: 0 auto;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

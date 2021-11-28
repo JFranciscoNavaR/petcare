@@ -1,0 +1,90 @@
+row, .bg, col {
+	background-color: aqua;
+}
+
+row, .bga {
+	background-color: #3465a4;
+}
+
+.bgauto {
+	background-color: red;
+}
+
+.bg1 {
+	background-color: blue;
+}
+
+.bg2 {
+	background-color: green;
+}
+
+.bg3 {
+	background-color: gray;
+}
+
+.bgdim1 {
+	background-color: orange;
+}
+
+.bgdim2 {
+	background-color: green;
+}
+
+.bgf {
+	background-color: purple;
+}
+
+.bge {
+	background-color: silver;
+}
+
+.b {
+	background-color: lime;
+}
+
+.bb {
+	background-color: #4e9a06;
+}
+
+.bgos {
+	background-color: silver;
+}
+
+.bgend {
+	background-color: orange;
+}
+
+.bgst {
+	background-color: #ef2929;
+}
+
+.bges {
+	background-color: #8f5902;
+}
+
+.bgfila {
+	background-color: #ad7fa8;
+}
+
+.bgd {
+	background-color: #5c3566;
+}
+
+.bgm {
+	
+	background-color: #edd400;
+}
+.bgani{
+	background-color: fuchsia;
+}
+.colani1{
+	background-color: green;
+}
+.subp{
+	background-color: lime
+}
+.medida{
+    width:300px;
+    height: 250px;
+}
+
